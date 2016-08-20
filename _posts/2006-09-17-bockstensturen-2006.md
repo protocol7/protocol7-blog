@@ -15,7 +15,7 @@ categories:
 ---
 <div class='microid-c4ea25d8d6ff8ae73eab7da52ff6cc14f39fcd0f'>
   <p>
-    Last Sunday was the culmination of this summers mountain bike training, Bockstensturen. BST is a 100 km race starting in the center of Varberg on the swedish west coast, with the majority of the race in the hills in Åkulla just outside of the city and with the finishing kilometers on the dunes by the sea. This year it was fairly dry, but still quite sticky for most of the distance. My goal was to beat 6 hours, which I just barely did, coming in at 5:57:02. Below is the GPS plotted map from Google Maps (sadly with pretty poor resolution) and the elevation graph. The total elevation gain ended up at 1304 meters.
+    Last Sunday was the culmination of this summers mountain bike training, Bockstensturen. BST is a 100 km race starting in the center of Varberg on the swedish west coast, with the majority of the race in the hills in &Aring;kulla just outside of the city and with the finishing kilometers on the dunes by the sea. This year it was fairly dry, but still quite sticky for most of the distance. My goal was to beat 6 hours, which I just barely did, coming in at 5:57:02. Below is the GPS plotted map from Google Maps (sadly with pretty poor resolution) and the elevation graph. The total elevation gain ended up at 1304 meters.
   </p>
   
   <p>
