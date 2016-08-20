@@ -1,6 +1,6 @@
 ---
 id: 1097
-title: Albin Martin Råberg
+title: Albin Martin R&aring;berg
 date: 2005-12-25T23:59:58+00:00
 author: Niklas
 layout: post
