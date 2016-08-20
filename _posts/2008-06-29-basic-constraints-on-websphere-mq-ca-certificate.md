@@ -25,11 +25,11 @@ tags:
   
   <blockquote>
     <p>
-      4.2.1.10  Basic Constraints                                            <br />                                                                        <br />    The basic constraints extension identifies whether the subject of the<br />    certificate is a CA and the maximum depth of valid certification    <br />    paths that include this certificate.                                <br />                                                                        <br /> The cA boolean indicates whether the certified public key belongs to   <br />    a CA.  If the cA boolean is not asserted, then the keyCertSign bit in<br />    the key usage extension MUST NOT be asserted.                       <br />                                                                        <br /> This extension MUST appear as a critical extension in all CA           <br />    certificates that contain public keys used to validate digital      <br />    signatures on certificates. 
+      4.2.1.10 Basic Constraints<br /> The basic constraints extension identifies whether the subject of the<br /> certificate is a CA and the maximum depth of valid certification<br /> paths that include this certificate.<br /> <br /> The cA boolean indicates whether the certified public key belongs to<br /> a CA. If the cA boolean is not asserted, then the keyCertSign bit in<br /> the key usage extension MUST NOT be asserted.<br /> <br /> This extension MUST appear as a critical extension in all CA<br /> certificates that contain public keys used to validate digital<br /> signatures on certificates.
     </p>
   </blockquote>
   
   <p>
-    Anyways, <a href="http://wmq-util.googlecode.com/svn/ssl-scripts/create-ca.sh">the script</a> is now updated. <a href="http://code.google.com/p/wmq-util/source/diff?r=31&#038;format=side&#038;path=/ssl-scripts/create-ca.sh">The required change</a> is to add the argument “-ca true” when creating the CA certificate.<br /> If you have any further suggestions to improve the scripts, please contact me and I&#8217;ll make sure to upgrade them.
+    Anyways, <a href="http://wmq-util.googlecode.com/svn/ssl-scripts/create-ca.sh">the script</a> is now updated. <a href="http://code.google.com/p/wmq-util/source/diff?r=31&#038;format=side&#038;path=/ssl-scripts/create-ca.sh">The required change</a> is to add the argument -ca true when creating the CA certificate.<br /> If you have any further suggestions to improve the scripts, please contact me and I&#8217;ll make sure to upgrade them.
   </p>
 </div>

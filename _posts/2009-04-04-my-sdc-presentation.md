@@ -20,6 +20,6 @@ tags:
   </p>
   
   <p>
-    SDC2009 was a nice conference, but not having plenty of power cords and free wifi feels a bit old by now. My favorite talk was <a href="http://jonasboner.com/">Jonas Bonér</a> on <a href="http://jonasboner.com/talks/state_youre_doing_it_wrong/html/all.html">JVM concurrency</a>. Jonas is extremely knowledgeable on the topic and gave me some new insights.
+    SDC2009 was a nice conference, but not having plenty of power cords and free wifi feels a bit old by now. My favorite talk was <a href="http://jonasboner.com/">Jonas Boner</a> on <a href="http://jonasboner.com/talks/state_youre_doing_it_wrong/html/all.html">JVM concurrency</a>. Jonas is extremely knowledgeable on the topic and gave me some new insights.
   </p>
 </div>

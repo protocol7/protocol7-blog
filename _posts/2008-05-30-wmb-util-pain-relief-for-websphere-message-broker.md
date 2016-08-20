@@ -1,6 +1,6 @@
 ---
 id: 1583
-title: wmb-util – pain relief for WebSphere Message Broker
+title: wmb-util pain relief for WebSphere Message Broker
 date: 2008-05-30T15:35:42+00:00
 author: Niklas
 layout: post

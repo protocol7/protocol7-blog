@@ -14,7 +14,7 @@ tags:
 ---
 <div class='microid-ff036f85dcc9b6128ee83363a2023e77f8785cd6'>
   <p>
-    Last week, I was delighted to be invited by one of my clients to a dinner at <a href="http://www.kockvin.se/valkommen.htm">Kock &#038; vin</a> (in Swedish). The name is a word play on &#8220;Coq au vin&#8221;, which would be typical for the humor around here. This was just three days after they were awarded the best wine restaurant in Sweden, and two days after they got their first start in Guide Michelin. Certainly a good week for them, and an excellent dinner for us. Inspired by Mårtens never ending stream of <a href="http://marten.gustafson.pp.se/matjournalen/">great dinners</a> (in Swedish).
+    Last week, I was delighted to be invited by one of my clients to a dinner at <a href="http://www.kockvin.se/valkommen.htm">Kock &#038; vin</a> (in Swedish). The name is a word play on &#8220;Coq au vin&#8221;, which would be typical for the humor around here. This was just three days after they were awarded the best wine restaurant in Sweden, and two days after they got their first start in Guide Michelin. Certainly a good week for them, and an excellent dinner for us. Inspired by M&aring;rtens never ending stream of <a href="http://marten.gustafson.pp.se/matjournalen/">great dinners</a> (in Swedish).
   </p>
   
   <p>
@@ -98,6 +98,6 @@ tags:
   </p>
   
   <p>
-    In every detail a great dinner, one of the very best I&#8217;ve had. Strongly recommended if you happen to pass by Göteborg.
+    In every detail a great dinner, one of the very best I&#8217;ve had. Strongly recommended if you happen to pass by G&ouml;teborg.
   </p>
 </div>

@@ -24,6 +24,6 @@ categories:
   </blockquote>
   
   <p>
-    <a href="http://www.dehora.net/journal/">Bill de hóra</a> <a href="http://permalink.gmane.org/gmane.comp.web.services.rest/5902">on rest-discuss</a>
+    <a href="http://www.dehora.net/journal/">Bill de hora</a> <a href="http://permalink.gmane.org/gmane.comp.web.services.rest/5902">on rest-discuss</a>
   </p>
 </div>

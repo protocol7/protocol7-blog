@@ -11,7 +11,7 @@ tags:
 ---
 <div class='microid-b7048b354300e7bdedefa009286c7b30e4e0ffe1'>
   <p>
-    Inspired by <a href="http://www.dehora.net/journal/2006/11/language_popularity_as_deployed.html">Bill de hóra</a> I&#8217;ve tried to list the languages I&#8217;ve used the last year. This list might not be complete so it&#8217;s pretty likely that I&#8217;ll append some additional items later as I remember them.
+    Inspired by <a href="http://www.dehora.net/journal/2006/11/language_popularity_as_deployed.html">Bill de hora</a> I&#8217;ve tried to list the languages I&#8217;ve used the last year. This list might not be complete so it&#8217;s pretty likely that I&#8217;ll append some additional items later as I remember them.
   </p>
   
   <ul>

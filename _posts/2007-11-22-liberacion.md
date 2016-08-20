@@ -21,7 +21,7 @@ tags:
   </p>
   
   <p>
-    Now, I might not agree with the implementation choices made by Jim (that would be SOAP all over) but I find that his <a href="http://jim.webber.name/2007/09/13/56db5919-3195-4008-92e1-5268078f586e.aspx">Guerrilla SOA</a> in many ways fit with my current thinking around how to approach integration. Go watch his <a href="http://jim.webber.name/presentations.html">presentation</a> from QCon and Øredev. Everything up to slide 18 is bang on target.
+    Now, I might not agree with the implementation choices made by Jim (that would be SOAP all over) but I find that his <a href="http://jim.webber.name/2007/09/13/56db5919-3195-4008-92e1-5268078f586e.aspx">Guerrilla SOA</a> in many ways fit with my current thinking around how to approach integration. Go watch his <a href="http://jim.webber.name/presentations.html">presentation</a> from QCon and Oredev. Everything up to slide 18 is bang on target.
   </p>
   
   <p>

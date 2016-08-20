@@ -23,7 +23,7 @@ tags:
     </p>
     
     <p>
-      So I’d like Sun to set the JCP free, turn it over to the community, and when we develop some cool Java-based technology in-house, take it to market, try to make some money with it, and after it’s caught on and the bugs are shaken out, consider whether or not it ought to be taken to the JCP.
+      So I'd like Sun to set the JCP free, turn it over to the community, and when we develop some cool Java-based technology in-house, take it to market, try to make some money with it, and after it's caught on and the bugs are shaken out, consider whether or not it ought to be taken to the JCP.
     </p>
   </blockquote>
   

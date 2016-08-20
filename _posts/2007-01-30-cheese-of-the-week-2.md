@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-d8a5c65ecbd8ac49a9a15c685d8e350fe23ed1e0'>
   <p>
-    Well, now that both <a href="http://sixx.se/nextgen">Fredrik</a> and <a href="http://marten.gustafson.pp.se/blog">Mårten</a> has reminded me that I&#8217;ve stopped cheese blogging, I should probably do something about it. It&#8217;s not like we&#8217;ve stopped doing our weekly cheese shopping, more like I&#8217;ve forgotten about writing on the topic. So, what&#8217;s on the plate this week.
+    Well, now that both <a href="http://sixx.se/nextgen">Fredrik</a> and <a href="http://marten.gustafson.pp.se/blog">M&aring;rten</a> has reminded me that I&#8217;ve stopped cheese blogging, I should probably do something about it. It&#8217;s not like we&#8217;ve stopped doing our weekly cheese shopping, more like I&#8217;ve forgotten about writing on the topic. So, what&#8217;s on the plate this week.
   </p>
   
   <ul>

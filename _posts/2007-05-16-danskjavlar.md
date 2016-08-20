@@ -1,6 +1,6 @@
 ---
 id: 1503
-title: Danskjävlar
+title: Danskj&auml;vlar
 date: 2007-05-16T22:10:16+00:00
 author: Niklas
 layout: post
