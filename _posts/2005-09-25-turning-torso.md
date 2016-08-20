@@ -11,7 +11,7 @@ tags:
 ---
 <div class='microid-ab020a90ef1889659f853708c083d1cf127b0968'>
   <p>
-    Now, I don&#8217;twant to make the people in Malmö any more proud (I don&#8217;t think they need my help anyways) but their brand new house, Turning Torso, is beatiful! We were down visiting Evas parents (and picking up our two cats) and stopped by on the way back. I snapped a few pictures, this was the best one.
+    Now, I don&#8217;twant to make the people in Malmo any more proud (I don&#8217;t think they need my help anyways) but their brand new house, Turning Torso, is beatiful! We were down visiting Evas parents (and picking up our two cats) and stopped by on the way back. I snapped a few pictures, this was the best one.
   </p>
   
   <p>
