@@ -20,7 +20,7 @@ tags:
     </blockquote>
     
     <p>
-      Google to the rescue, finds <a href="http://www.bright-green.com/blog/2003_09_22/why_i_drink_coffee.html">this page</a>. Turns out that this train-wreck of a JDK doesn&#8217;t support non-ASCII characters in the Java source files. Since we&#8217;re a Swedish company, quite a few people has included @author tags which contains the letters едц. Lots of search-and-replaces later all of those has been replaced with the harmless a and o. Oh, and someone also made the mistake of including some curly quotes in a comment which had to be replaced.&nbsp; That was boring, but easy. A lot of builds still wouldn&#8217;t work. That&#8217;s because some of the i18n unit tests contains strings with funky characters. Had to replace with loading that text from a file. Now everything worked as expected.
+      Google to the rescue, finds <a href="http://www.bright-green.com/blog/2003_09_22/why_i_drink_coffee.html">this page</a>. Turns out that this train-wreck of a JDK doesn&#8217;t support non-ASCII characters in the Java source files. Since we&#8217;re a Swedish company, quite a few people has included @author tags which contains the letters &aring;&auml;&ouml;. Lots of search-and-replaces later all of those has been replaced with the harmless a and o. Oh, and someone also made the mistake of including some curly quotes in a comment which had to be replaced.&nbsp; That was boring, but easy. A lot of builds still wouldn&#8217;t work. That&#8217;s because some of the i18n unit tests contains strings with funky characters. Had to replace with loading that text from a file. Now everything worked as expected.
     </p>
     
     <p>
