@@ -31,6 +31,6 @@ categories:
   </ul>
   
   <p>
-    For todays breakfast at <a href="http://www.nollerab.com/">Nöller</a> I went for a ciabatta with Taleggio and cloudberry jam. For me a surprising but very tasty combination.
+    For todays breakfast at <a href="http://www.nollerab.com/">N&ouml;ller</a> I went for a ciabatta with Taleggio and cloudberry jam. For me a surprising but very tasty combination.
   </p>
 </div>
