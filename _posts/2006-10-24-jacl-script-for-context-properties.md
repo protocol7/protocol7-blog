@@ -17,7 +17,7 @@ tags:
   <p>
     <code>
 &lt;p>set dest [ $AdminTask createSIBDestination "-bus MyBus -type Alias -name MyQueue -node $nodeName -server $serverName -targetBus MyMQBus -targetName MyMQQueue" ] &lt;/p>
-&lt;p>$AdminConfig create SIBContextInfo $dest {{name _MQRFH2Allowed} {type BOOLEAN} {value true}}&lt;/p>
+&lt;p>$AdminConfig create SIBContextInfo $dest &#123;&#123;name _MQRFH2Allowed&#125; &#123;type BOOLEAN&#125; &#123;value true&#125;&#125;&lt;/p>
 &lt;p></code>
   </p>
 </div>
