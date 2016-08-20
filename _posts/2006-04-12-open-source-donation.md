@@ -12,7 +12,7 @@ tags:
 ---
 <div class='microid-ff57a9d7313727fcc99dc85dcf29b87e1869349d'>
   <p>
-    <a href="http://marten.gustafson.pp.se/blog/2006/04/07/zystems-donates-to-open-source/">As noted by Mårten</a>, at work we have decided to give some back to the open source community. We&#8217;re quite heavy users of open source software, both for our internal systems (e.g. Ubuntu, Subversion, Apache, Tomcat, Maven) and our software (e.g. Spring, Hibernate, commons). As a way of showing our gratitude we will be donating money to projects voted by our employees a couple of times per year.
+    <a href="http://marten.gustafson.pp.se/blog/2006/04/07/zystems-donates-to-open-source/">As noted by M&aring;rten</a>, at work we have decided to give some back to the open source community. We&#8217;re quite heavy users of open source software, both for our internal systems (e.g. Ubuntu, Subversion, Apache, Tomcat, Maven) and our software (e.g. Spring, Hibernate, commons). As a way of showing our gratitude we will be donating money to projects voted by our employees a couple of times per year.
   </p>
   
   <p>
