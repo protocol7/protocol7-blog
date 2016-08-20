@@ -11,7 +11,7 @@ tags:
 ---
 <div class='microid-ee7154d9c7dbd7a4554558abeea4578849d3ae3a'>
   <p>
-    <a title="Screenweaver MX" href="http://www.screenweavermx.com/index.cfm?nav=0">Screenweaver MX</a><br /> : <q cite="http://www.screenweavermx.com">Screenweaver MX is an extension to Macromedia® Flash MX that aims at providing Flash developers with a toolset to produce rich media desktop applications</q>.
+    <a title="Screenweaver MX" href="http://www.screenweavermx.com/index.cfm?nav=0">Screenweaver MX</a><br /> : <q cite="http://www.screenweavermx.com">Screenweaver MX is an extension to Macromedia Flash MX that aims at providing Flash developers with a toolset to produce rich media desktop applications</q>.
   </p>
   
   <p>
