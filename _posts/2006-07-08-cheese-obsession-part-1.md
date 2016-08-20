@@ -11,11 +11,11 @@ categories:
 ---
 <div class='microid-e848ab9a30f2ff5eaad9514538dfc97399ed0880'>
   <p>
-    Inspired by <a href="http://marten.gustafson.pp.se/matjournalen/">Mårtens food blog</a>, I&#8217;m going to start posting my own experiences into the fine art of eating. I guess it will be mostly about cheese and fine beer, but you never know :-)
+    Inspired by <a href="http://marten.gustafson.pp.se/matjournalen/">M&aring;rtens food blog</a>, I&#8217;m going to start posting my own experiences into the fine art of eating. I guess it will be mostly about cheese and fine beer, but you never know :-)
   </p>
   
   <p>
-    So, to start of. Almost every weekend Eva and me stroll down to the cheese store on <a href="http://www.linnegatansost.se">Linnégatan</a>. This weekend was no different. Waiting for consumtion this time is:
+    So, to start of. Almost every weekend Eva and me stroll down to the cheese store on <a href="http://www.linnegatansost.se">Linnagatan</a>. This weekend was no different. Waiting for consumtion this time is:
   </p>
   
   <ul>
@@ -23,7 +23,7 @@ categories:
       a <a href="http://www.chimay.com/en/chimay_with_beer_246.php">Chimay with Beer</a>, a cheese made by the Trappist monks famous for the Chimay beer. This variant is washed with that very beer, giving it a particular taste
     </li>
     <li>
-      Blå get from Lillängen
+      Bl&aring; get from Lill&auml;ngen
     </li>
     <li>
       <a href="http://en.wikipedia.org/wiki/Reblochon">Reblochon</a>
