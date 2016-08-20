@@ -39,7 +39,7 @@ tags:
   </p>
   
   <p>
-    Identify the initial source for the package<br /> <br /> Several implementations exists and should be researched before finalizing the design:<br /> * Ant 1.X contains probably the most mature code within the exec task. This code has been stripped of the Ant specifics and cleaned up by Niklas Gustavsson and can be donated under the ASF license.<br /> * Ant 2.X contains a new exec implementation, especially targeted for reusability (see http://ant.apache.org/ant2/actionlist.html#exec).<br /> * plexus-utils has a similar but slimmer implementation than Ant and has also indicated interest through Trygve Laugstøl the particate in the development.
+    Identify the initial source for the package<br /> <br /> Several implementations exists and should be researched before finalizing the design:<br /> * Ant 1.X contains probably the most mature code within the exec task. This code has been stripped of the Ant specifics and cleaned up by Niklas Gustavsson and can be donated under the ASF license.<br /> * Ant 2.X contains a new exec implementation, especially targeted for reusability (see http://ant.apache.org/ant2/actionlist.html#exec).<br /> * plexus-utils has a similar but slimmer implementation than Ant and has also indicated interest through Trygve Laugstol the particate in the development.
   </p>
   
   <p>
